@@ -4,7 +4,7 @@
 import os
 import tweepy
 from covert import *
-from time import gmtime, strftime
+from time import sleep
 
 #~~~~~~~~Bot Auth Setup~~~~~~~~~#
 
@@ -13,5 +13,5 @@ auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 twitterAPI = tweepy.API(auth)
 
-#~~~~~~~End Bot Setup~~~~~~#
+#~~~~~~~End Bot Auth Setup~~~~~~#
 
