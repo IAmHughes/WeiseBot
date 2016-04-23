@@ -1,7 +1,7 @@
 # Custom
 .idea/
 .DS_Store
-#covert.py
+covert.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
