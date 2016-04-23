@@ -1,5 +1,7 @@
-# Custom Hidden Files
-covert.py
+# Custom
+.idea/
+.DS_Store
+#covert.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
