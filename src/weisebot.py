@@ -1,5 +1,5 @@
 #Simple bot for Twitter handle @WeiseBot created by @WeiseGamer, aka Thomas Hughes
-#Source can be found (sans the covert.py which contains API tokens/keys) at https://github.com/weiseguy
+#Source can be found (sans the covert.py which contains API tokens/keys) at https://github.com/weisecreations
 
 import tweepy
 from covert import *
