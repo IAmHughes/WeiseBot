@@ -1,5 +1,5 @@
 #ABOUT WEISEBOT
-@WeiseBot on Twitter, created by Thomas Hughes, aka @WeiseGamer and found at http://www.twitter.com/WeiseBot
+@WeiseBot on Twitter, created by Thomas Hughes, aka @TheBeardedTomYT and found at http://www.twitter.com/WeiseBot
 RT's #IndieDev, #GameDev, #PixelArt, #WeiseBot
 
 This bot was a fun project to demonstrate to myself competency in completing a project from start to finish, overall scope of a project, utilizing Twitter's Tweepy API for the first time, and my first complete Python project.
